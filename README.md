@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Carl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tekgeek88/tekgeek88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in all things computer science with my primary focus on distrubuted systems and API design at this time
+- 🌱 I’m currently learning to build data pipelines with the ETL process
+- 💞️ I’m looking to collaborate on open source prijects
+- 📫 carl.argabright@gmail.com
